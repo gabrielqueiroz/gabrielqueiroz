@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <a href="linkedin.com/in/gabrielfatec/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/gabrielfatec/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; 
    <a href="mailto:gabriel.fatec@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
-   <a href="gabrielqueiroz.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+   <a href="https://gabrielqueiroz.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
 </div>
