@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielqueiroz&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" /> &nbsp; <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielqueiroz&theme=nord&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielqueiroz&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" /> &nbsp; <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielqueiroz&theme=nord&hide_border=true" />
 </div>
 
 ---
