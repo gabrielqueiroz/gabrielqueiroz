@@ -7,7 +7,7 @@
 - 💻 Software Developer since 2011
 - 🇧🇷 Born and raised in São Paulo
 - 🇨🇦 Living in Vancouver since 2018
-- 💼 Senior Software Developer at [Catalyst.io](catalyst.io)
+- 💼 Staff Software Developer at [Catalyst.io](catalyst.io)
 - 🌱 Mentoring new folks in tech with Backend Stuff.
 
 <div align="center">
